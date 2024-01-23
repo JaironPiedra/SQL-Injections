@@ -37,7 +37,7 @@ Now let's interact with the web application, as shown in the screenshot below. T
 <img src="https://i.imgur.com/d8Zi8Zu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Bling SQL Injection
+Blind SQL Injection
 
   When exploiting a normal SQL injection you will find that sometimes the database will display a visual output or even return an error that might tell us our SQL syntax is incorrect. Blind SQL injection is when we cannot visually see a response from the query sent to the database or we get a generic error page. These two types of SQL injections are virtually the same, the distinction between the two is in the database retrieval method. 
  
